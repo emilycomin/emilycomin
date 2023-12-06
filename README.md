@@ -1,16 +1,14 @@
 ### Hi there 👋
+- 🔭 No momento estou em busca da minha primeira oportunidade como Desenvolvedora Front-End Júnior,
+- 🌱 Aprendendo React.JS e Análises e Desenvolvimento de Software pela Estácio.
+- ⚡ Tenho oito anos de experiência como enfermeira e quero contribuir muitos nos times com minhas soft skills.
 
-<!--
-**emilycomin/emilycomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div>
+    <a href="https://www.linkedin.com/in/emily-comin-ba12a0245/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  </div>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilycomin&show_icons=true&theme=buefy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilycomin&layout=compact&langs_count-16&theme=buefy"
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
