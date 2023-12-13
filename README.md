@@ -1,7 +1,7 @@
 ### Olá, meu nome é Emily e agora virei DEV 👋
 
 - 🔭 No momento estou em busca da minha primeira oportunidade como Desenvolvedora Front-End Júnior,
-- 🌱 Aprendendo React.JS e Análises e Desenvolvimento de Software pela Estácio.
+- 🌱 Aprendendo React.JS, Bootstrap e Análises e Desenvolvimento de Software pela Estácio.
 - ⚡ Tenho oito anos de experiência como enfermeira e quero contribuir muitos nos times com minhas soft skills.
 
   <div>
